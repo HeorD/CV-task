@@ -205,6 +205,10 @@ p {
     font-weight: 700;
 }
 
+.section-button {
+    color: #585d65;
+}
+
 .section-wrapper {
     display: none;
 }

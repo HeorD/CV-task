@@ -187,6 +187,8 @@
     .section-slide {
 	    position: absolute;
         z-index: 0;
+        width: 100%;
+        height: 82%;
         background: #373b40;
         transition: transform ease-in-out .5s, opacity ease-in-out .5s;
     }
